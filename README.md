@@ -1,3 +1,4 @@
+ HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# NATURENEST-REACTJS-AND-TAILWINDCSS
+Nature Nest brings the tranquility of nature into your home with eco-friendly indoor plants, stylish décor, and sustainable gardening essentials. Perfect for plant lovers and beginners alike, we offer quality products and expert guidance to help you create a serene, green sanctuary in any space.
+ 760c6e6b7e1e736d2b80eb5566796e5fc0f2ac2a
